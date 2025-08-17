@@ -56,23 +56,16 @@ Top match image saved to top_match.jpg
 
 This project demonstrates **semantic retrieval in computer vision**, bridging **representation learning** and **information retrieval**. It’s a practical, compact example of applying **deep embeddings** for multimodal search tasks.
 
----
+
 
 ## 📜 License
 
 This project is licensed under the **MIT License** – free for academic, personal, and commercial use.
 
----
+
 
 ## ✨ Future Work
 
 * Expand dataset beyond cats & dogs
 * Integrate a web-based UI for interactive search
 * Experiment with multi-modal queries (text + image)
-
-```
-
----
-
-Do you want me to also generate the **`requirements.txt`** and **`.gitignore`** files for you so you can just drop them in?
-```

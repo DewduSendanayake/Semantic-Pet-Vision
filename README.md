@@ -31,7 +31,7 @@ returns the most semantically relevant image from the dataset.
 
 
 
-## ▶️ Usage
+## ▶️ Usage & Applications
 
 Run the main script to:
 
@@ -50,8 +50,6 @@ Query: cute ginger kitten
 Top match image saved to top_match.jpg
 ```
 
-🎯 Applications
-
 Though fun-sized, this project is a microcosm of real-world systems.
 
 - 🔍 Content-based image retrieval (e.g., “find me similar products”)
@@ -64,14 +62,16 @@ This project demonstrates **semantic retrieval in computer vision**, bridging **
 
 
 
-## 📜 License
-
-This project is licensed under the **MIT License** – free for academic, personal, and commercial use.
-
-
 
 ## ✨ Future Work
 
 * Expand dataset beyond cats & dogs
 * Integrate a web-based UI for interactive search
 * Experiment with multi-modal queries (text + image)
+
+
+
+## 📜 License
+
+This project is licensed under the **MIT License** - free for academic, personal, and commercial use.
+

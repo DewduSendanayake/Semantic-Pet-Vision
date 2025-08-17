@@ -73,5 +73,5 @@ This project demonstrates **semantic retrieval in computer vision**, bridging **
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - free for academic, personal, and commercial use.
+This project is licensed under the **MIT License** - free for academic, and personal use.
 

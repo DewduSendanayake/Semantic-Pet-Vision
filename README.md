@@ -1,9 +1,9 @@
 # Semantic Pet Vision 🐱🐶 
 
-**Semantic Image Search with DocArray + Transformers**
+> **Semantic Image Search with DocArray + Transformers**
 
-## 📖 Overview
-**SemanticPetVision** is a lightweight **semantic image search engine** that retrieves similar pet images (cats 🐱 and dogs 🐶) based on their **visual meaning**, not just filenames or keywords.  
+
+**Semantic Pet Vision** is a lightweight **semantic image search engine** that retrieves similar pet images (cats 🐱 and dogs 🐶) based on their **visual meaning**, not just filenames or keywords.  
 
 By leveraging **Hugging Face vision encoders** and **DocArray**, the system transforms images into embeddings and performs similarity search. A simple query like:
 

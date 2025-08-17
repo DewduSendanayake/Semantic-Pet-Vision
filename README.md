@@ -50,7 +50,13 @@ Query: cute ginger kitten
 Top match image saved to top_match.jpg
 ```
 
+🎯 Applications
 
+Though fun-sized, this project is a microcosm of real-world systems.
+
+- 🔍 Content-based image retrieval (e.g., “find me similar products”)
+- 🐕 Pet adoption search engines (search by photo)
+- 📷 Duplicate detection in large photo collections
 
 ## 📖 Academic Angle
 
